@@ -1,17 +1,18 @@
-# Practicando Spring Boot: Challenge Literalura
+
+# Practicando con Java: Challenge Conversor de Monedas
 
 
 ## Clonar el proyecto
 
 
 ```bash
-  git clone https://github.com/brguamanc/conversor_modedas_challenge.git
+  git clone https://github.com/brguamanc/conversor_modedas_challenge.git](https://github.com/brguamanc/challenge_literatura.git
 ```
 
 ## Ingresar al directorio
 
 ```bash
-  cd conversor_modedas_challenge
+  cd challenge_literatura
 ```
 
 
